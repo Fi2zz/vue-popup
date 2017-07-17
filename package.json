@@ -21,8 +21,8 @@
     "url": "https://github.com/Fi2zz/vue-popup/issues"
   },
   "homepage": "https://github.com/Fi2zz/vue-popup#readme",
-  "devDependencies":{
-        "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
   }
 }
