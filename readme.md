@@ -4,7 +4,7 @@ a vue popup component
 
 ## APIs
 
-| name               |type          |default                            |description|  
+| name               |type          |default value /posible values      |description                |  
 |----                |---           |---                                |---                        |
 |value               |boolean       |false                              |v-model                    | 
 |position            |string        |[top,right,bottom,left]            |where the popup to  appear | 
