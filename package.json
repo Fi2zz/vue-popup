@@ -1,0 +1,28 @@
+{
+  "name": "vue-popup",
+  "version": "1.0.0",
+  "description": "a vue poup component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fi2zz/vue-popup.git"
+  },
+  "keywords": [
+    "vue-popup",
+    "popup",
+    "vue"
+  ],
+  "author": "fi2zz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fi2zz/vue-popup/issues"
+  },
+  "homepage": "https://github.com/Fi2zz/vue-popup#readme",
+  "devDependencies":{
+        "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+  }
+}
